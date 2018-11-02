@@ -2,4 +2,4 @@
 fastlane/report.xml
 outputs/
 !outputs/.keep
-Pods/*
+Pods/
